@@ -1,0 +1,1 @@
+# myctags_errorcheck
